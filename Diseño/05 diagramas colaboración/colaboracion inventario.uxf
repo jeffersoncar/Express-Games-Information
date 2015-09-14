@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>320</x>
+      <y>160</y>
+      <w>260</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>base de datos
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>0</x>
+      <y>330</y>
+      <w>100</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>administrador
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>300</x>
+      <y>330</y>
+      <w>200</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>aplicativo</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>70</x>
+      <y>280</y>
+      <w>250</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+1 ingresar</panel_attributes>
+    <additional_attributes>230;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>70</x>
+      <y>300</y>
+      <w>250</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+2 entrar inventario </panel_attributes>
+    <additional_attributes>230;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>290</x>
+      <y>160</y>
+      <w>168</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+.
+.
+.
+   3 buscar tablas </panel_attributes>
+    <additional_attributes>90;30;90;170</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>70</x>
+      <y>320</y>
+      <w>250</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+5 mostrar tablas</panel_attributes>
+    <additional_attributes>30;50;230;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>70</x>
+      <y>340</y>
+      <w>250</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+6 seleccionar tabla especifica</panel_attributes>
+    <additional_attributes>230;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>70</x>
+      <y>360</y>
+      <w>250</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+7 insertar datos</panel_attributes>
+    <additional_attributes>230;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>350</x>
+      <y>160</y>
+      <w>156</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+.
+.
+8 verificar datos</panel_attributes>
+    <additional_attributes>70;30;90;170</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>230</x>
+      <y>160</y>
+      <w>150</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+4 cargar tablas</panel_attributes>
+    <additional_attributes>70;170;90;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>370</x>
+      <y>150</y>
+      <w>216</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+.
+
+9 añadir nuevos registros</panel_attributes>
+    <additional_attributes>110;30;110;180</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>450</x>
+      <y>160</y>
+      <w>178</w>
+      <h>190</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+10 actualizar tablas</panel_attributes>
+    <additional_attributes>50;170;130;30</additional_attributes>
+  </element>
+</diagram>

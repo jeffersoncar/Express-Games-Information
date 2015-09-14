@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>140</x>
+      <y>280</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>administrador</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>330</x>
+      <y>380</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>aplicativo</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>300</x>
+      <y>200</y>
+      <w>160</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>base de datos externa</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>210</x>
+      <y>280</y>
+      <w>148</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+       1 ingresar</panel_attributes>
+    <additional_attributes>120;100;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>300</x>
+      <y>200</y>
+      <w>158</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+.
+2 revisar           .</panel_attributes>
+    <additional_attributes>80;30;80;180</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>290</x>
+      <y>200</y>
+      <w>202</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+3 mostrar actualizacion</panel_attributes>
+    <additional_attributes>110;180;110;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>360</x>
+      <y>200</y>
+      <w>132</w>
+      <h>200</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+.
+4 descargar</panel_attributes>
+    <additional_attributes>70;30;70;180</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>180</x>
+      <y>280</y>
+      <w>170</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+6 instalar</panel_attributes>
+    <additional_attributes>30;30;150;120</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>400</x>
+      <y>330</y>
+      <w>160</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+5 crear backup</panel_attributes>
+    <additional_attributes>140;50;30;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>390</x>
+      <y>350</y>
+      <w>174</w>
+      <h>70</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;
+7 restaurar backup</panel_attributes>
+    <additional_attributes>150;50;40;50</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Class</type>
+    <coordinates>
+      <x>540</x>
+      <y>380</y>
+      <w>160</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>base de datos </panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

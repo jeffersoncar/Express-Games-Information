@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.3">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.baselet.element.old.element.Actor</type>
+    <coordinates>
+      <x>210</x>
+      <y>340</y>
+      <w>100</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Administrador</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Actor</type>
+    <coordinates>
+      <x>780</x>
+      <y>340</y>
+      <w>80</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Aplicativo</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.UseCase</type>
+    <coordinates>
+      <x>440</x>
+      <y>130</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Buscar la pestaña 
+disponibilidad
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.UseCase</type>
+    <coordinates>
+      <x>440</x>
+      <y>190</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Mostrar pestaña 
+de disponibilidad</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.UseCase</type>
+    <coordinates>
+      <x>440</x>
+      <y>250</y>
+      <w>140</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Elegir numero de 
+consola</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.UseCase</type>
+    <coordinates>
+      <x>440</x>
+      <y>310</y>
+      <w>140</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Validar numero de 
+consola</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.UseCase</type>
+    <coordinates>
+      <x>410</x>
+      <y>530</y>
+      <w>220</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Mostrar tiempo ingresado o 
+en caso de tiempo libre --</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.UseCase</type>
+    <coordinates>
+      <x>440</x>
+      <y>360</y>
+      <w>150</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>Iniciar tiempo de 
+consola</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.UseCase</type>
+    <coordinates>
+      <x>450</x>
+      <y>660</y>
+      <w>130</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>Actualizar estado 
+Disponible a 
+ocupada</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.UseCase</type>
+    <coordinates>
+      <x>420</x>
+      <y>410</y>
+      <w>190</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Mostrar precio base de inicio
+o tiempo transcurrido</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.UseCase</type>
+    <coordinates>
+      <x>400</x>
+      <y>470</y>
+      <w>230</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>Iniciar contador con disminucion 
+de tiempo transcurrido</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.UseCase</type>
+    <coordinates>
+      <x>430</x>
+      <y>590</y>
+      <w>160</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>Cambiar estado a la 
+consola</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>270</x>
+      <y>120</y>
+      <w>190</w>
+      <h>270</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>170;30;30;250</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>270</x>
+      <y>250</y>
+      <w>190</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>170;30;30;120</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>270</x>
+      <y>340</y>
+      <w>180</w>
+      <h>300</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>160;280;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>550</x>
+      <y>360</y>
+      <w>260</w>
+      <h>360</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>240;30;30;340</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>550</x>
+      <y>180</y>
+      <w>260</w>
+      <h>230</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>240;210;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>550</x>
+      <y>300</y>
+      <w>260</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>240;90;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>560</x>
+      <y>350</y>
+      <w>250</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>230;40;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>580</x>
+      <y>360</y>
+      <w>230</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>210;30;30;70</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>600</x>
+      <y>360</y>
+      <w>210</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>190;30;30;130</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>600</x>
+      <y>360</y>
+      <w>210</w>
+      <h>210</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>190;30;30;190</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>450</x>
+      <y>50</y>
+      <w>120</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>C.U 001
+disponibilidad
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

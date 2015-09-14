@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="12.2">
+  <zoom_level>10</zoom_level>
+  <element>
+    <type>com.umlet.element.custom.Component</type>
+    <coordinates>
+      <x>30</x>
+      <y>100</y>
+      <w>200</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>.
+.
+inventario</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>50</x>
+      <y>20</y>
+      <w>146</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;()
+.
+Administrador</panel_attributes>
+    <additional_attributes>80;30;80;80</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.Component</type>
+    <coordinates>
+      <x>220</x>
+      <y>290</y>
+      <w>200</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>.
+.
+busqueda de tablas</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.Component</type>
+    <coordinates>
+      <x>220</x>
+      <y>400</y>
+      <w>200</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>.
+.
+añade nuevos registros</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.Component</type>
+    <coordinates>
+      <x>490</x>
+      <y>510</y>
+      <w>200</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>.
+.
+actualizar datos</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>500</x>
+      <y>320</y>
+      <w>146</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;()
+.
+base de datos</panel_attributes>
+    <additional_attributes>80;30;80;80</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>80</x>
+      <y>240</y>
+      <w>160</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>140;80;30;80;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.Component</type>
+    <coordinates>
+      <x>490</x>
+      <y>400</y>
+      <w>200</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>.
+.
+conexion con base de datos</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>260</x>
+      <y>210</y>
+      <w>116</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;()
+.
+
+aplicativo</panel_attributes>
+    <additional_attributes>60;30;60;80</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.custom.Component</type>
+    <coordinates>
+      <x>30</x>
+      <y>210</y>
+      <w>200</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>.
+.
+insertar datos</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>100</x>
+      <y>130</y>
+      <w>50</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>30;80;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>290</x>
+      <y>320</y>
+      <w>50</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>30;80;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>390</x>
+      <y>400</y>
+      <w>120</w>
+      <h>50</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>100;30;30;30</additional_attributes>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>550</x>
+      <y>430</y>
+      <w>50</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.</panel_attributes>
+    <additional_attributes>30;80;30;30</additional_attributes>
+  </element>
+</diagram>

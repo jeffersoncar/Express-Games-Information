@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.3">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>20</x>
+      <y>180</y>
+      <w>190</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>Paquete GUI
+--
++ Ventana de Disponibilidad
++ Ventana de Inventario
++ Ventana de Reportes
++ Ventana de Tarifas
++ Loggin
+- Mantenimiento
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>20</x>
+      <y>390</y>
+      <w>190</w>
+      <h>160</h>
+    </coordinates>
+    <panel_attributes>Paquete BD
+--
++Persistencia
++ Modificacion
++ Busqueda
++ Guardado
+# Eliminacion</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>280</x>
+      <y>180</y>
+      <w>180</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>Paquete disponibilidad
+--
++ Asignar tiempo
++ Cancelar tiempo
++ Tiempo
++ Tiempo restante 
++ Hora de inicio
++ Hora actual</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>200</x>
+      <y>250</y>
+      <w>100</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+</panel_attributes>
+    <additional_attributes>10.0;20.0;80.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>120</x>
+      <y>350</y>
+      <w>30</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+</panel_attributes>
+    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLPackage</id>
+    <coordinates>
+      <x>290</x>
+      <y>420</y>
+      <w>170</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>Paquete utilidad 
+--
++ ObjetoID</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>200</x>
+      <y>310</y>
+      <w>110</w>
+      <h>170</h>
+    </coordinates>
+    <panel_attributes>lt=.&gt;
+</panel_attributes>
+    <additional_attributes>10.0;10.0;90.0;150.0</additional_attributes>
+  </element>
+</diagram>

@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="13.3">
+  <zoom_level>7</zoom_level>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>35</x>
+      <y>35</y>
+      <w>238</w>
+      <h>224</h>
+    </coordinates>
+    <panel_attributes>center: XBOX 360 SUPER SLIM
+--------------------------------------------------------------------
+center: HARDWARE
+
+3.2 Ghz tri core (IBM xenon)
+GPU ATI Xenon 500 Mhz
+Disco duro 500 Gb (SATA)
+Memoria RAM 4 gb (Toshiba)
+Conectividad 2.4 Ghz
+Tres puertos USB 2.0
+Puerto HDMI y RCA
+Unidad optica (Lector DVD 64x)
+
+
+
+--------------------------------------------------------------------
+center: SOFTWARE
+
+Microsoft firmware 5.0 
+system live
+Xbox live
+Catalogo de videojuegos
+
+
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>196</x>
+      <y>455</y>
+      <w>126</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.1
+center: XBOX 360 SUPER SLIM
+
+
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>476</x>
+      <y>427</y>
+      <w>119</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>center:COMPUTADOR DE 
+        ESCRITORIO
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>308</x>
+      <y>35</y>
+      <w>231</w>
+      <h>301</h>
+    </coordinates>
+    <panel_attributes>center: XBOX CLASICO
+------------------------------------------------------------------
+
+center: HARDWARE
+
+CPU Intel coppermine core 32 bits 733Mhz
+GPU Nvidia MPCX 256-bit 230-250 Mhz
+Disco duro 250 Gb (Toshiba)
+RAM 2 Gb (Toshiba)
+Tarjeta de sonido AC97 (Dolby digital pro)
+Unidad optica (Lector DVD 5x)
+Adaptador de red Ethernet (10-100 mbps)
+Puerto RCA
+
+------------------------------------------------------------------
+center: SOFTWARE
+
+Catalogo de videojuegos
+boXplorer v0.96b
+ConfigMagic v1.6 FINAL
+Debug Mode
+Dvd2Xbox 0.7.8
+DVDx2
+Enigmah
+LinksBoks 0.99
+Mimesis v3
+XBMC 8.10 Final.
+Xbox Version Detector
+
+
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>574</x>
+      <y>35</y>
+      <w>238</w>
+      <h>273</h>
+    </coordinates>
+    <panel_attributes>center:COMPUTADOR ESCRITORIO
+----------------------------------------------------------------
+
+center: HARDWARE
+----------------------------------------------------------------
+Motherboard: 
+CPU: 
+GPU: 
+sonido: Controladora HD sonido (Intel)
+Disco duro: 500 Gb (samsung)
+Teclado Ps/2 estandar
+Mouse Alps pointing- device
+Adaptador de red: Realtek PCIe Family Controller
+--------------------------------------------------------------------
+center: 	SOFTWARE
+Sistema operativo: Windows 7 ultimate
+Microsoft Office 2013
+Acrobat reader DC
+Netbeans 8.0
+Java y JDK
+UMLet v.13.3
+Visual paradigm 12.1
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>196</x>
+      <y>532</y>
+      <w>126</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.2
+center: XBOX 360 SUPER SLIM
+
+
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>196</x>
+      <y>609</y>
+      <w>126</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.3
+center: XBOX 360 SUPER SLIM
+
+
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>196</x>
+      <y>686</y>
+      <w>126</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.4
+center: XBOX 360 SUPER SLIM
+
+
+
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>476</x>
+      <y>497</y>
+      <w>119</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>center: COMPUTADOR
+          PORTATIL</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>840</x>
+      <y>35</y>
+      <w>238</w>
+      <h>273</h>
+    </coordinates>
+    <panel_attributes>center:COMPUTADOR PORTATIL
+--------------------------------------------------------------------
+
+center: HARDWARE
+--------------------------------------------------------------------
+Motherboard: Hewlett Packard HP 14 notebook
+CPU: Intel celeron(R) n2820 2.13 Ghz
+GPU: Intel HD graphic
+sonido: Controladora HD sonido (Intel)
+Disco duro: 500 Gb (samsung)
+Teclado Ps/2 estandar
+Mouse Alps pointing- device
+Adaptador de red: Realtek PCIe Family Controller
+--------------------------------------------------------------------
+center: 	SOFTWARE
+Sistema operativo: Windows 8.1 single languaje
+Microsoft Office 2013
+Acrobat reader DC
+Netbeans 8.1
+Java y JDK
+UMLet v.13.3
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>700</x>
+      <y>385</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.1
+center: XBOX CLASICO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>833</x>
+      <y>385</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.2
+center: XBOX CLASICO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>833</x>
+      <y>462</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.3
+center: XBOX CLASICO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>833</x>
+      <y>539</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.4
+center: XBOX CLASICO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>833</x>
+      <y>616</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.5
+center: XBOX CLASICO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>833</x>
+      <y>693</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.6
+center: XBOX CLASICO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Node</type>
+    <coordinates>
+      <x>693</x>
+      <y>693</y>
+      <w>105</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>center:Consola no.7
+center: XBOX CLASICO</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>357</x>
+      <y>567</y>
+      <w>398</w>
+      <h>34</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>21;21;385;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>301</x>
+      <y>441</y>
+      <w>90</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;77;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>301</x>
+      <y>518</y>
+      <w>90</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;77;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>301</x>
+      <y>595</y>
+      <w>90</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;77;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>301</x>
+      <y>672</y>
+      <w>90</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;77;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>357</x>
+      <y>455</y>
+      <w>34</w>
+      <h>265</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>21;252;21;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>574</x>
+      <y>413</y>
+      <w>69</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;56;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>574</x>
+      <y>483</y>
+      <w>69</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;56;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>609</x>
+      <y>504</y>
+      <w>34</w>
+      <h>97</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>21;84;21;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>609</x>
+      <y>427</y>
+      <w>34</w>
+      <h>111</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>21;21;21;98</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>721</x>
+      <y>406</y>
+      <w>34</w>
+      <h>300</h>
+    </coordinates>
+    <panel_attributes>lt=-
+</panel_attributes>
+    <additional_attributes>21;21;21;287</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>721</x>
+      <y>602</y>
+      <w>125</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;112;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>721</x>
+      <y>525</y>
+      <w>125</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;112;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>721</x>
+      <y>448</y>
+      <w>125</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;112;35</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>721</x>
+      <y>406</y>
+      <w>193</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;168;35;168;21</additional_attributes>
+  </element>
+  <element>
+    <type>com.baselet.element.old.element.Relation</type>
+    <coordinates>
+      <x>721</x>
+      <y>644</y>
+      <w>193</w>
+      <h>62</h>
+    </coordinates>
+    <panel_attributes>lt=-
+_Link_</panel_attributes>
+    <additional_attributes>21;35;168;35;168;49</additional_attributes>
+  </element>
+</diagram>
